@@ -4,6 +4,7 @@ const dob = '08/06/2003';
 
 function myname() {
     console.log(word + " " + last + " " + dob);
+    
 }
 function local() {
     console.log("new branch");
