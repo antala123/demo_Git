@@ -7,4 +7,5 @@ function myname() {
 }
 function local() {
     console.log("new branch");
+    console.log("new fetch-B");
 }
