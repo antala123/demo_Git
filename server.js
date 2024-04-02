@@ -9,3 +9,6 @@ function create(){
 function demo(){
     console.log("Creating demo");
 }
+function fetch(){
+    console.log("new data add");
+}
