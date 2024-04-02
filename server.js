@@ -6,10 +6,6 @@ function create(){
     console.log("Creating");
 }
 
-function add(){
-    console.log("Creating add");
-}
-
 function demo(){
     console.log("Creating demo");
 }
